@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more programming for a professional future, I'm just beginning now.
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on nothing for the moment, but I have some ideas for the future.
-- 📫 How to reach me: you can send me an email to pablosg003@gmail.com
+- 📫 How to reach me: you can dm me to my twitter, @yorkato_cuproso
 
 <!---
 pablosg003/pablosg003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
